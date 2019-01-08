@@ -1,0 +1,18 @@
+How to properly install and use Twittdesk Beta 0.0.4
+
++--------------------------------------------------------------------------------+
+|                                                                                |
+|  TTTTTTT  W           W  IIIIIII TTTTTTT TTTTTTT  DDDD    EEEEEE   SSSS  K  K  |
+|     T      W         W      I       T       T     D   D   E       S      K K   | 
+|     T       W   W   W       I       T       T     D    D  EEE      SSS   KK    |
+|     T        W W W W        I       T       T     D   D   E           S  K K   |
+|     T         W   W      IIIIIII    T       T     DDDD    EEEEEE  SSSS   K  K  |
+|                                                                                |
++--------------------------------------------------------------------------------+
+
+The Unoffical Twitter For Desktop!
+
+How to set up:
+Step 1: Install Node.js (It is one of the things in the zip file)
+Step 2: Make a desktop shortcut to the .bat file (which runs the code)
+Step 3: Double click the batch file and you are ready with your new Twittdesk
